@@ -17,7 +17,7 @@ This project focuses on predicting the time and date of completion for South Ind
 
 ## Overview
 
-This project aims to bridge historical linguistics with modern technology by accurately predicting the date of manuscript completion. The focus is on South Indian languages, using datasets spanning multiple centuries, enabling insights into linguistic evolution and cultural history.
+This project aims to bridge historical linguistics with modern technology by accurately predicting the date of manuscript completion. The focus is on Hindi language, using datasets spanning multiple centuries, enabling insights into linguistic evolution and cultural history.
 
 ### Key Features
 - Use of **Deep Learning** models for time-period classification.
@@ -29,7 +29,7 @@ This project aims to bridge historical linguistics with modern technology by acc
 ## Dataset
 
 The dataset consists of:
-- Manuscripts written in South Indian languages from the **16th, 17th, 18th, 19th, and 20th centuries**.
+- Manuscripts written in Hindi language from the **16th, 17th, 18th, 19th, and 20th centuries**.
 - Textual data extracted from images using **Tesseract OCR**.
 
 You can access the dataset here:  
