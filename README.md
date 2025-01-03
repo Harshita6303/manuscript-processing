@@ -7,10 +7,6 @@ This project focuses on predicting the time and date of completion for South Ind
 - [Overview](#overview)
 - [Dataset](#dataset)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributors](#contributors)
 - [Future Enhancements](#future-enhancements)
 
 ---
@@ -44,8 +40,6 @@ Additionally, you can explore a broader collection of texts through the [Interne
 Files are named by century:
 - `1600.txt`, `1700.txt`, `1800.txt`, `1900.txt`, `2000.txt`
 
-Dataset path:
-`C:/Users/harsh/OneDrive/Desktop/manuscripts2/`
 
 ---
 
@@ -58,10 +52,9 @@ Dataset path:
 - **Data Annotation**: Classifying and labeling manuscript periods.
 
 ---
+## Future Enhancements
+- Incorporate more languages to widen applicability.
+- Implement attention-based models for improved accuracy.
+- Add a user-friendly GUI for historians and researchers.
+- Integrate with cloud services for scalability
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/manuscript-prediction.git
-   cd manuscript-prediction
